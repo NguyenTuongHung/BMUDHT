@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
+dlp_2fa_secret.txt
+zalo_otp_cache.json
+qrcode_2fa.png
 dlp_history.json
+van_ban_AN_TOAN.txt
